@@ -73,12 +73,6 @@
 - 🍰 完全纯静态, 提供自动化部署功能
 - 🍰 三叉树分类、结构清晰、分类清晰
 
-## 预览
-
-- [https://nav3.cn](https://nav3.cn)
-
-![Preview](https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/preview.gif)
-
 ## 可以干嘛
 
 - 部署公司内部导航系统，统一管理常用链接
@@ -87,9 +81,7 @@
 
 ## 部署
 
-零成本部署，像数 `321` 一样简单。
-
-#### gh-pages (免费)
+#### gh-pages
 
 1、右上角点击 `Fork` 当前项目。
 
@@ -103,17 +95,17 @@
 
 如果打开 404，请打开 https://github.com/你的用户名/nav/settings/pages 检查分支是否是 **gh-pages**。
 
-#### Netlify 推荐(免费)
+#### Netlify
 
 打包路径 `dist/browser`
 
 [https://www.netlify.com/](https://www.netlify.com/)
 
-#### Vercel 推荐(免费)
+#### Vercel
 
 [https://github.com/apps/vercel](https://github.com/apps/vercel)
 
-#### Cloudflare pages 推荐(免费)
+#### Cloudflare pages
 
 [https://www.cloudflare.com/zh-cn](https://www.cloudflare.com/zh-cn)
 
@@ -157,14 +149,6 @@ git push
 # 如果安装了node只需执行
 npm run update
 ```
-
-## 支持
-
-项目于 2018 年到至今一直坚持维护和开源, 经过 N 次的迭代与优化, 如果项目能帮到您是我的荣幸。
-
-您可以请作者喝杯咖啡，继续战斗下去
-
-<img src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/32.png" width="600">
 
 ## LICENSE
 
